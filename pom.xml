@@ -6,7 +6,7 @@
 	<groupId>com.websystique.springmvc</groupId>
 	<artifactId>SpringHibernateExample</artifactId>
 	<packaging>war</packaging>
-	<version>2.4.7</version>
+	<version>2.4.8</version>
 	<name>SpringHibernateExample</name>
 
 	<properties>
@@ -154,7 +154,7 @@
 	<distributionManagement>
         <repository>
          <id>releases</id>
-             <url>http://54.177.55.41:8081/repository/maven-releases/</url>
+             <url>http://http://3.101.104.211:8081/repository/maven-releases/</url>
         </repository>
     	</distributionManagement>
 </project>
