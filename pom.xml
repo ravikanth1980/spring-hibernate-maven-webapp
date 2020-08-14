@@ -6,7 +6,7 @@
 	<groupId>com.websystique.springmvc</groupId>
 	<artifactId>SpringHibernateExample</artifactId>
 	<packaging>war</packaging>
-	<version>2.4.20-snapshot</version>
+	<version>2.4.21</version>
 	<name>SpringHibernateExample</name>
 
 	<properties>
@@ -153,7 +153,7 @@
 	</build>
 	<distributionManagement>
         <repository>
-         <id>snapshot</id>
+         <id>release</id>
              <url>http://54.193.248.112:8081/repository/maven-snapshots/</url>
         </repository>
     	</distributionManagement>
